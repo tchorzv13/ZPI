@@ -1,4 +1,1 @@
 # ZPI
-
-Plik testowy
-
